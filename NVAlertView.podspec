@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "NVAlertView"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "基于SCLAlertView的提示框"
   spec.homepage     = "https://github.com/yuankaigou/NVAlertView"
   
