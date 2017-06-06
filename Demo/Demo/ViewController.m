@@ -309,52 +309,6 @@ NSString *kAttributeTitle = @"Attributed string operation successfully completed
 
 
 
-#pragma makr - 按钮点击
-
-
-#pragma mark - OnePattern
-
-- (void)gykOnlyPic{
-    
-    NVAlertView *alert = [[NVAlertView alloc] initWithNewWindow];
-    
-    UIImageView *imageView = [[UIImageView alloc] init];
-    imageView.frame = CGRectMake(0, 0, 240 - 24, 96);
-    imageView.contentMode = UIViewContentModeScaleAspectFill;
-    imageView.image = [UIImage imageNamed:@"qqImage.png"];
-    [alert addCustomView:imageView];
-    
-    NVButton *button = [alert addButton:@"马上设置" target:self selector:@selector(firstButton)];
-    button.buttonFormatBlock = ^NSDictionary* (void)
-    {
-        NSMutableDictionary *buttonConfig = [[NSMutableDictionary alloc] init];
-        buttonConfig[@"backgroundColor"] = [UIColor colorWithRed:30/255.0f green:185/255.0f blue:242/255.0f alpha:1];
-        return buttonConfig;
-    };
-    
-    [alert showCloseButton:self title:nil subTitle:nil duration:0];
-}
-
-- (void)gykPattern{
-    NVAlertView *alert = [[NVAlertView alloc] initWithNewWindow];
-    //加入自定义图片
-    UIImageView *imageView = [[UIImageView alloc] init];
-    imageView.frame = CGRectMake(0, 0, 240 - 24, 96);
-    imageView.contentMode = UIViewContentModeScaleAspectFill;
-    imageView.image = [UIImage imageNamed:@"qqImage.png"];
-    [alert addCustomView:imageView];
-    
-    NVButton *button = [alert addButton:@"马上设置" target:self selector:@selector(firstButton)];
-    button.buttonFormatBlock = ^NSDictionary* (void)
-    {
-        NSMutableDictionary *buttonConfig = [[NSMutableDictionary alloc] init];
-        buttonConfig[@"backgroundColor"] = [UIColor colorWithRed:30/255.0f green:185/255.0f blue:242/255.0f alpha:1];
-        return buttonConfig;
-    };
-    
-    [alert showCloseButton:self title:@"开启消息推送" subTitle:@"及时接受好友消息, 不再错过任何精彩。" duration:0];
-}
-
 - (void)firstButton{
     NSLog(@"firstButton Click");
 }
