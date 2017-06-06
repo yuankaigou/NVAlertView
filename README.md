@@ -6,18 +6,16 @@
 
 ## ScreenShots
 
-![](http://opeqpbgit.bkt.clouddn.com/Simulator%20Screen%20Shot%202017%E5%B9%B46%E6%9C%886%E6%97%A5%20%E4%B8%8B%E5%8D%888.30.07.png)
+![BackgroundImage](https://raw.githubusercontent.com/yuankaigou/NVAlertView/master/ScreenShots/ScreenShot1.jpg)
+![BackgroundImage](https://raw.githubusercontent.com/yuankaigou/NVAlertView/master/ScreenShots/ScreenShot2.jpg)
+![BackgroundImage](https://raw.githubusercontent.com/yuankaigou/NVAlertView/master/ScreenShots/ScreenShot3.jpg)
 
-![](http://opeqpbgit.bkt.clouddn.com/Simulator%20Screen%20Shot%202017%E5%B9%B46%E6%9C%886%E6%97%A5%20%E4%B8%8B%E5%8D%888.29.53.png)
-
-![](http://opeqpbgit.bkt.clouddn.com/Simulator%20Screen%20Shot%202017%E5%B9%B46%E6%9C%886%E6%97%A5%20%E4%B8%8B%E5%8D%888.30.28.png)
-![](http://opeqpbgit.bkt.clouddn.com/Simulator%20Screen%20Shot%202017%E5%B9%B46%E6%9C%886%E6%97%A5%20%E4%B8%8B%E5%8D%888.30.16.png)
-![](http://opeqpbgit.bkt.clouddn.com/Simulator%20Screen%20Shot%202017%E5%B9%B46%E6%9C%886%E6%97%A5%20%E4%B8%8B%E5%8D%888.30.02.png)
-![](http://opeqpbgit.bkt.clouddn.com/Simulator%20Screen%20Shot%202017%E5%B9%B46%E6%9C%886%E6%97%A5%20%E4%B8%8B%E5%8D%888.29.58.png)
-![](http://opeqpbgit.bkt.clouddn.com/Simulator%20Screen%20Shot%202017%E5%B9%B46%E6%9C%886%E6%97%A5%20%E4%B8%8B%E5%8D%888.29.47.png)
-![](http://opeqpbgit.bkt.clouddn.com/Simulator%20Screen%20Shot%202017%E5%B9%B46%E6%9C%886%E6%97%A5%20%E4%B8%8B%E5%8D%888.30.32.png)
-![](http://opeqpbgit.bkt.clouddn.com/Simulator%20Screen%20Shot%202017%E5%B9%B46%E6%9C%886%E6%97%A5%20%E4%B8%8B%E5%8D%888.30.22.png)
-![](http://opeqpbgit.bkt.clouddn.com/Simulator%20Screen%20Shot%202017%E5%B9%B46%E6%9C%886%E6%97%A5%20%E4%B8%8B%E5%8D%888.30.36.png)
+![BackgroundImage](https://raw.githubusercontent.com/yuankaigou/NVAlertView/master/ScreenShots/ScreenShot4.jpg)
+![BackgroundImage](https://raw.githubusercontent.com/yuankaigou/NVAlertView/master/ScreenShots/ScreenShot5.jpg)
+![BackgroundImage](https://raw.githubusercontent.com/yuankaigou/NVAlertView/master/ScreenShots/ScreenShot6.jpg)
+![BackgroundImage](https://raw.githubusercontent.com/yuankaigou/NVAlertView/master/ScreenShots/ScreenShot7.jpg)
+![BackgroundImage](https://raw.githubusercontent.com/yuankaigou/NVAlertView/master/ScreenShots/ScreenShot8.jpg)
+![BackgroundImage](https://raw.githubusercontent.com/yuankaigou/NVAlertView/master/ScreenShots/ScreenShot9.jpg)
 
 
 ## 基本接口调用

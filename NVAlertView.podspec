@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
   spec.version      = "0.0.2"
   spec.summary      = "基于SCLAlertView的提示框"
   spec.homepage     = "https://github.com/yuankaigou/NVAlertView"
-  spec.screenshots  = "https://raw.githubusercontent.com/yuankaigou/NVAlertView/master/ScreenShots/ScreenShot1.png", "https://raw.githubusercontent.com/yuankaigou/NVAlertView/master/ScreenShots/ScreenShot2.png"
+  spec.screenshots  = "https://raw.githubusercontent.com/yuankaigou/NVAlertView/master/ScreenShots/ScreenShot1.jpg", "https://raw.githubusercontent.com/yuankaigou/NVAlertView/master/ScreenShots/ScreenShot2.jpg"
   spec.license            = { :type => "MIT", :file => "LICENSE" }
   spec.author             = { "yuankaigou" => "602122923@qq.com" }
   spec.platform           = :ios
