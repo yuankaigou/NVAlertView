@@ -6,21 +6,18 @@
 
 ## ScreenShots
 
-* 顶部关闭按钮样式
+![](http://opeqpbgit.bkt.clouddn.com/Simulator%20Screen%20Shot%202017%E5%B9%B46%E6%9C%886%E6%97%A5%20%E4%B8%8B%E5%8D%888.30.07.png)
 
-![](/Users/gougou/Desktop/Simulator Screen Shot 2017年6月6日 下午8.30.32.png)
+![](http://opeqpbgit.bkt.clouddn.com/Simulator%20Screen%20Shot%202017%E5%B9%B46%E6%9C%886%E6%97%A5%20%E4%B8%8B%E5%8D%888.29.53.png)
 
-![](/Users/gougou/Desktop/Simulator Screen Shot 2017年6月6日 下午8.30.32.png)
-![](/Users/gougou/Desktop/Simulator Screen Shot 2017年6月6日 下午8.30.28.png)
-
-![](/Users/gougou/Desktop/Simulator Screen Shot 2017年6月6日 下午8.30.22.png)
-![](/Users/gougou/Desktop/Simulator Screen Shot 2017年6月6日 下午8.29.53.png)
-![](/Users/gougou/Desktop/Simulator Screen Shot 2017年6月6日 下午8.29.53.png)
-![](/Users/gougou/Desktop/Simulator Screen Shot 2017年6月6日 下午8.30.16.png)
-![](/Users/gougou/Desktop/Simulator Screen Shot 2017年6月6日 下午8.30.07.png)
-![](/Users/gougou/Desktop/Simulator Screen Shot 2017年6月6日 下午8.29.58.png)
-![](/Users/gougou/Desktop/Simulator Screen Shot 2017年6月6日 下午8.30.02.png)
-![](/Users/gougou/Desktop/Simulator Screen Shot 2017年6月6日 下午8.29.47.png)
+![](http://opeqpbgit.bkt.clouddn.com/Simulator%20Screen%20Shot%202017%E5%B9%B46%E6%9C%886%E6%97%A5%20%E4%B8%8B%E5%8D%888.30.28.png)
+![](http://opeqpbgit.bkt.clouddn.com/Simulator%20Screen%20Shot%202017%E5%B9%B46%E6%9C%886%E6%97%A5%20%E4%B8%8B%E5%8D%888.30.16.png)
+![](http://opeqpbgit.bkt.clouddn.com/Simulator%20Screen%20Shot%202017%E5%B9%B46%E6%9C%886%E6%97%A5%20%E4%B8%8B%E5%8D%888.30.02.png)
+![](http://opeqpbgit.bkt.clouddn.com/Simulator%20Screen%20Shot%202017%E5%B9%B46%E6%9C%886%E6%97%A5%20%E4%B8%8B%E5%8D%888.29.58.png)
+![](http://opeqpbgit.bkt.clouddn.com/Simulator%20Screen%20Shot%202017%E5%B9%B46%E6%9C%886%E6%97%A5%20%E4%B8%8B%E5%8D%888.29.47.png)
+![](http://opeqpbgit.bkt.clouddn.com/Simulator%20Screen%20Shot%202017%E5%B9%B46%E6%9C%886%E6%97%A5%20%E4%B8%8B%E5%8D%888.30.32.png)
+![](http://opeqpbgit.bkt.clouddn.com/Simulator%20Screen%20Shot%202017%E5%B9%B46%E6%9C%886%E6%97%A5%20%E4%B8%8B%E5%8D%888.30.22.png)
+![](http://opeqpbgit.bkt.clouddn.com/Simulator%20Screen%20Shot%202017%E5%B9%B46%E6%9C%886%E6%97%A5%20%E4%B8%8B%E5%8D%888.30.36.png)
 
 
 ## 基本接口调用
@@ -78,7 +75,7 @@ showBuilder.show(builder.alertView, self.window.rootViewController);
     [showBuilder showAlertView:builder.alertView onViewController:self];
 ```
 
-### Easy to use
+### 使用简单
 ```Objective-C
 // Get started
 NVAlertView *alert = [[NVAlertView alloc] init];
@@ -100,7 +97,7 @@ NVAlertView *alert = [[NVAlertView alloc] init];
 NVAlertView *alert = [[NVAlertView alloc] initWithWindowWidth:300.0f];
 ```
 
-### NVAlertview in a new window. (No UIViewController)
+### NVAlertView 在一个新创建的Window上 (No UIViewController)
 ```Objective-C
 
 NVAlertView *alert = [[NVAlertView alloc] initWithNewWindow];
